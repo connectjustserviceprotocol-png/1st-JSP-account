@@ -104,6 +104,19 @@ nav ul li a {
     border-radius: 8px;
 }
 
+.socials {
+    margin-top: 20px;
+}
+
+.socials img {
+    width: 40px;
+    transition: 0.3s;
+}
+
+.socials img:hover {
+    transform: scale(1.1);
+}
+
 /* Footer */
 footer {
     text-align: center;
